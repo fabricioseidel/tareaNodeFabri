@@ -1,0 +1,16 @@
+[
+  {
+    "nombreDelAnimal": "Benito",
+    "edad": "2 años",
+    "tipoDeAnimal": "perro",
+    "colorDeAnimal": "blanco",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombreDelAnimal": "pancho",
+    "edad": "4 años",
+    "tipoDeAnimal": "gato",
+    "colorDeAnimal": "negro",
+    "enfermedad": "arisco"
+  }
+]
